@@ -1,4 +1,4 @@
-# 1. Napisz funkcję, która przyjmie rok urodzenia, a następnie zwróci informację o tym, czy jest pełnoletni czy nie.
+# 1. Napisz funkcję, która przyjmie wiek osoby, a następnie zwróci informację o tym, czy jest pełnoletni czy nie.
 def check_adult(age):
     pass
 
